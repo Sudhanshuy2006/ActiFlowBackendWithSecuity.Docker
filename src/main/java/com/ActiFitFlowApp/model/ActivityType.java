@@ -1,0 +1,30 @@
+package com.ActiFitFlowApp.model;
+
+public enum ActivityType {
+
+    RUNNING,
+    WALKING,
+    CYCLING,
+    TREADMILL,
+    SKIPPING,
+    STAIR_CLIMBING,
+    WEIGHT_TRAINING,
+    BODYWEIGHT_TRAINING,
+    CROSSFIT,
+    POWERLIFTING,
+    YOGA,
+    PILATES,
+    STRETCHING,
+    MEDITATION,
+    FOOTBALL,
+    CRICKET,
+    BASKETBALL,
+    BADMINTON,
+    TENNIS,
+    SWIMMING,
+    HIKING,
+    DANCING,
+    HOUSEWORK,
+    GARDENING,
+    Other
+}
